@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">RockPaperScissors</string>
+    <string name="rock_button_text">Rock</string>
+    <string name="scissors_button_text">Scissors</string>
+    <string name="paper_button_text">Paper</string>
+    <string name="main_text">Choose an item to play with</string>>
+    <string name="my_step_text">Your choice: %1$s</string>
+    <string name="bot_step_text">Bot choice: %1$s</string>
+    <string name="result_text">Result: %1$s</string>
+    <string name="back_text">Back</string>
 </resources>
